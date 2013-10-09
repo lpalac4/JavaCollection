@@ -1,0 +1,128 @@
+
+
+
+      CS202 Project 3:  Two Dimensional Trees
+
+
+
+
+Fill out the following information and include
+this file with your project submission.
+
+
+Name (from netID used for submission):
+NetID:
+
+Partner's name (if any):  
+NetID:  
+
+             
+Answer each of the following questions.
+
+/****************************************************    
+* List all of the source files you submitted.
+*   (You must submit TDTree.java and Point.java)
+*****************************************************/
+
+  TDTree.java
+  Point.java
+
+/****************************************************    
+* Describe the contents of a node in your implementation
+*****************************************************/
+
+/****************************************************    
+*    Did you implement the default constructor TDTree()?
+*****************************************************/
+    
+/****************************************************    
+*    Did you implement size():
+*    If so, is the runtime O(1)?
+*****************************************************/
+
+/****************************************************    
+*    Did you implement height():
+*    If so, is the runtime O(1)?
+*****************************************************/
+
+/****************************************************    
+*    Did you implement insert(Point p)?
+*    If so, is the runtime O(h) where h is the height
+*       of the tree?  explain as necessary.
+*****************************************************/
+
+/****************************************************    
+*    Did you implement contains(Point p)?
+*    If so, is the runtime O(h) where h is the height
+*       of the tree?  explain as necessary.
+*****************************************************/
+
+/****************************************************    
+*    Did you implement 
+*      minX(), maxX(), minY(), maxY()?
+*    If so, are they all O(1)?
+*****************************************************/
+
+
+/****************************************************    
+*    Did you implement printPreOrder()?
+*****************************************************/
+
+
+/****************************************************    
+*    Did you implement delete()?
+*    If so, is the runtime O(h) where h is the height
+*       of the tree?  explain as necessary.
+*****************************************************/
+
+/****************************************************    
+*    Did you implement draw()?
+*****************************************************/
+
+
+
+/****************************************************    
+*    Did you implement nearest(Point p)?
+*    If yes, explain your approach and how you made
+*      as efficient as possible.
+*****************************************************/
+
+
+/****************************************************    
+*    Did you implement the "range" methods rangeSize()
+*        and rangeQuery()?
+*    If yes, explain your approach and how you made
+*      as efficient as possible.
+*****************************************************/
+
+    
+/****************************************************    
+*    Did you implement the balanced build-from-array 
+*        Constructor?
+*    If so, is the runtime O(n log n)?
+*    explain
+*****************************************************/
+
+    
+/****************************************************    
+*    Did you enforce the incremental size-balanced property?
+*    This affects insert and delete.
+*****************************************************/
+
+
+
+/*****************************************************
+* The nearest method and the range methods require "smart"
+*   pruning of the search space to run efficiently,.
+* Did you collect any data to indicate the effectiveness
+*   of your approach?  For example, tracking the number
+*   of nodes touched by the operations (so this number
+*   can be related to the number of nodes in the tree)?
+* If so, discuss some of your findings.
+******************************************************/
+
+
+
+
+
+
